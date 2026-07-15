@@ -17,6 +17,7 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -31,4 +32,12 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
