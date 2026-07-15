@@ -7,6 +7,7 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -26,4 +27,8 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
