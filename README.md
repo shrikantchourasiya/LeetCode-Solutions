@@ -8,12 +8,14 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 | ------- |
 | [0001-two-sum](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -26,6 +28,7 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
