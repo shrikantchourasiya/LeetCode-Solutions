@@ -52,6 +52,7 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +73,16 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
