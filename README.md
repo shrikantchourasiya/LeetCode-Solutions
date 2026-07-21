@@ -54,6 +54,7 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A repository containing my Java-based LeetCode solutions, DSA practice, and prob
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shrikantchourasiya/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
